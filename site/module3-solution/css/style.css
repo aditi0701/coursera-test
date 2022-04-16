@@ -1,0 +1,27 @@
+.navbar{
+    background-color: #D3D3D3;
+
+}
+.nav{
+   
+    margin: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+}
+.content{
+    align-items: center;
+    background-color: #D3D3D3;
+    width: 90%;
+    padding: auto;
+    margin: auto;
+}
+.menu{
+    margin-bottom: 0%;
+    background-color: white;
+
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+    padding-left: 3px;
+}
